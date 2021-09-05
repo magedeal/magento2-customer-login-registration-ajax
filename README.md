@@ -1,1 +1,1 @@
-# magento2-customer-login-registration-ajax
+### Magento 2 Customer Ajax Login and Registration
